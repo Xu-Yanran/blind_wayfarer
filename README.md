@@ -60,8 +60,8 @@ cd ~/ros2_ws/src
 ```
 
 Deploy blind_wayfarer module and HAL on your platform
-- [blind_wayfarer](https://git.soton.ac.uk/yx1g22/simulation-env/-/blob/iros/robot_deployment/blind_wayfarer.py?ref_type=heads)
-- [Hardware Abstraction Layer (HAL)](https://git.soton.ac.uk/yx1g22/simulation-env/-/blob/iros/robot_deployment/hal.py?ref_type=heads)
+- [blind_wayfarer](https://github.com/Xu-Yanran/blind_wayfarer/blob/main/robot_deployment/blind_wayfarer.py)
+- [Hardware Abstraction Layer (HAL)](https://github.com/Xu-Yanran/blind_wayfarer/blob/main/robot_deployment/hal.py)
 
 ```bash
 # Launch the blind_wayfarer node
