@@ -4,6 +4,8 @@
   <br>
 </h1>
 
+### **Happy to announce that our paper has been accepted for publication at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025!**
+
 ![blind_wayfarer](figures/blind_wayfarer.jpg)
 <!-- <img src="figures/blind_wayfarer.jpg" width="900"> -->
 
